@@ -9,7 +9,7 @@
 I'm studying Software Engineering: smile:
 
 I love the IT area I am delighted with the possibilities of problem solving and innovations that we have the chance to carry out. <br/>
-(Amo a área de T.I. Me encanto com as possibilitades de resolução de problemas e inovações que temos a chance de realizar.)
+Amo a área de T.I. Me encanto com as possibilitdades de inovações e de resolução de problemas que podemos realizar.
 
 ## Starting studies in::
 
