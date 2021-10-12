@@ -1,28 +1,29 @@
-### Hi there 👋
-# I'm Alexandre Dimas!
+### Olá 👋
+# Eu sou Alexandre Dimas!
+Amo a área de T.I. Pois sempre temos a possibilitdade de inovar e achar soluções de problemas do cotidiano.
+<hr>
+ 💻 Cursando Engenharia de Software
+<hr>
+<h2>Iniciando os estudos em:</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlexDimas238)](https://github.com/AlexDimas238)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandredimas/)](https://www.linkedin.com/in/alexandredimas/)
+<hr>
 
-## About me:
-
-💻 I'm studying Software Engineering:
-
-I love the IT area I am delighted with the possibilities of problem solving and innovations that we have the chance to carry out. <br/>
-Amo a área de T.I. Me encanto com as possibilitdades de inovações e de resolução de problemas que podemos realizar.
-
-## Starting studies in::
-
-### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-### Database: <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-
-### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
-## What I don't know, give me a few days 😁
-
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=AlexDimas238&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/AlexDimas238)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDimas238&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/AlexDimas238)
+<div align="center">
+  <a href="https://github.com/AlexDimas238">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexDimas238&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/AlexDimas238"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDimas238&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<hr>
+  
+### Meus Contatos:
+  <a href="https://www.linkedin.com/in/alexandredimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contato.alexdimas238@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/alexandredimass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
