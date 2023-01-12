@@ -16,12 +16,8 @@ Amo a área de T.I. Pois sempre temos a possibilitdade de inovar e achar soluç�
 
 <div align="center">
   <a href="https://github.com/AlexDimas238">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexDimas238&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/AlexDimas238"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDimas238&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-<hr>
-  
+    
 ### Meus Contatos:
   <a href="https://www.linkedin.com/in/alexandredimas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.alexdimas238@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
