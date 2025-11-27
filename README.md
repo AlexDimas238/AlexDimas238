@@ -2,7 +2,7 @@
 # Eu sou Alexandre Dimas!
 Amo a área de T.I. Pois sempre temos a possibilitdade de inovar e achar soluções de problemas do cotidiano.
 <hr>
- 💻 Cursando Engenharia de Software
+ 💻 Engenheiro de Software
 <hr>
 <h2>Iniciando os estudos em:</h2>
 <div align="center">
